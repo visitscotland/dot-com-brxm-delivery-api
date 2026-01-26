@@ -33,7 +33,7 @@
     <junit.jupiter.version>5.11.2</junit.jupiter.version>
     <easymock.version>5.4.0</easymock.version>
     <mockito.version>5.2.0</mockito.version>
-    <assertj.version>3.26.3</assertj.version>
+    <assertj.version>3.27.7</assertj.version>
 
   </properties>
 
